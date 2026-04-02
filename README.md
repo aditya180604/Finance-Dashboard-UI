@@ -2,6 +2,8 @@
 
 A clean, interactive Finance Dashboard built as a Frontend Internship Assessment.
 
+https://finance-dashboard-ui-plum.vercel.app/
+
 ## Tech Stack
 
 - **Frontend**: React 19 + Vite
