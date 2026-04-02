@@ -34,15 +34,6 @@ zorvyn/
 └── backend/           # (Minimal placeholder — not required for this assessment)
 ```
 
-## Getting Started
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Open **http://localhost:7000** in your browser.
 
 ## Features
 
